@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/students/220110829/user-land-filesystem/fs/newfs",
+    "files.associations": {
+        "cmath": "cpp"
+    }
+}
